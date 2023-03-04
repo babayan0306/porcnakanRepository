@@ -15,8 +15,7 @@ class ViewController: UIViewController {
     var stillTyping: Bool = false
     var dotIsPlaced: Bool = false
     var firstOperand: Double = 0
-    var secondOperand: Double = 0
-    var porcnakanProject: Int = 0 
+    var esEm: String = ""
     var operatorSign: String = ""
     var currentInput: Double {
         get {
