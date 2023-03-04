@@ -57,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				545288B129AE15B200754FD2 /* AppDelegate.swift */,
+				54742C0F29B355FF004C1E3E /* AddCell */,
 				545288B329AE15B200754FD2 /* SceneDelegate.swift */,
 				545288B529AE15B200754FD2 /* ViewController.swift */,
 				545288B729AE15B200754FD2 /* Main.storyboard */,
@@ -65,6 +66,13 @@
 				545288BF29AE15B300754FD2 /* Info.plist */,
 			);
 			path = UltraCalculatorProject;
+			sourceTree = "<group>";
+		};
+		54742C0F29B355FF004C1E3E /* AddCell */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = AddCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
